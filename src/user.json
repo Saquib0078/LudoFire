@@ -1,0 +1,43 @@
+{
+    "6033017709": {
+        "email": "email@example.com",
+        "password": "password",
+        "name": "Example Name",
+        "device": "klfjghsdklfjhg",
+        "balances": {
+            "winning-balance": 1000,
+            "gamming-balance": 100,
+            "total-winnings": 1000
+        }
+    },
+    "1234567890": {
+        "email": "email@example.com",
+        "password": "password",
+        "name": "Example Name",
+        "device": "klfjghsdklfjhg",
+        "balances": {
+            "winning-balance": 1000,
+            "gamming-balance": 100,
+            "total-winnings": 1000
+        }
+    },
+
+    
+    "version": "1",
+    "maintenace": false,
+    "urls": {
+        "app-url": "",
+        "support-url": "",
+        "developer-profile": "",
+        "how-to-add-moeny" : ""
+    },
+    "payment-methods":{
+        "Bikash" : "134123412",
+        "Nagad" : "asdfasdfasd",
+        "Rocket" : "asdfasdf"
+    }
+}
+
+
+
+

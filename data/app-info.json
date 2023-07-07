@@ -1,0 +1,22 @@
+{
+  "version": "2.33",
+  "maintenance": false,
+  "urls": {
+    "app-url": "sahilbot",
+    "support-url": "rigfurewhgier",
+    "developer-profile": "ejrgiouergji",
+    "how-to-add-moeny": "rguijeirughi"
+  },
+  "payment-methods": {
+    "Bikash": "134123412",
+    "Nagad": "asdfasdfasd",
+    "Rocket": "asdfasdf"
+  },
+  "slider-images" : [
+    {
+        "image_path":"https://via.placeholder.com/80x60",
+        "click" : "https://youtube.com"
+    }
+  ]
+}
+

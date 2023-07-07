@@ -1,0 +1,12 @@
+{
+  "8893201023": {
+    "email": "example000@gmail.com",
+    "password": "Pass@123",
+    "name": "example",
+    "balances": {
+      "winning-balance": 0,
+      "gamming-balance": 0,
+      "total-winnings": 0
+    }
+  }
+}

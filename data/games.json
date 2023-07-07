@@ -1,0 +1,12 @@
+[
+  {
+    "name": "bfvhjbejhv",
+    "image": "http://localhost:3000/getImage/hakuna.jpg",
+    "icon": "http://localhost:3000/getImage/man.png"
+  },
+  {
+    "name": "Ludo Fire",
+    "image": "http://localhost:3000/getImage/hakuna.jpg",
+    "icon": "http://localhost:3000/getImage/man.png"
+  }
+]
